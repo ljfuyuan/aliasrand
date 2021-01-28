@@ -31,4 +31,5 @@ func main() {
 		fmt.Println(alias.Pick())
 		//you will get one of the 0,1,2,3 in O(1) time
 	}
-}```
+}
+```
